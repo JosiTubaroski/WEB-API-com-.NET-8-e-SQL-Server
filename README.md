@@ -19,3 +19,5 @@ https://www.youtube.com/watch?v=bnAuqSgmTyc
 3) Criar Projeto
 
 <img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/04_Estrutura_Projeto.png"/>
+
+4) Estrutura Projeto
