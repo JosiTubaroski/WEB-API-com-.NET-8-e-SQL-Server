@@ -11,3 +11,5 @@ https://www.youtube.com/watch?v=bnAuqSgmTyc
 2) Criar um projeto: API Web do ASP.NET Core
 
 <img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/02_API_WEB.png"/>
+
+- Repositório do Código C:\Users\josiq\source\repos
