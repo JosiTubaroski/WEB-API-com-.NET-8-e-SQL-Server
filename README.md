@@ -4,6 +4,19 @@
 
 # WEB API com .NET 8 e SQL-Server
 
+### Como funciona a estrutura de projetos Web-API .Net8?
+
+A estrutura de um projeto Web API em .NET 8 é organizada de forma modular e segue boas práticas para garantir a escabilidade, manutenção e clareza de código. Vamos explorar como essa estrutura funciona, os principais componentes e como eles se integram:
+
+### Estrutura Básica de um Projeto Web API .NET 8
+
+Quando você cria um projeto Web API no .NET 8 (usando o Visual Studio, Visual Studio Code ou CLI do .NET), a estrutura inicial é gerada automaticamente. Aqui está uma visão geral dos principais componentes:
+
+### 1. Pasta Controllers:
+
+- Contém os controladores da API, que são classes que lidam com requisições HTTP.
+- Cada controlador geralmente corresponde a um recurso da API (ex.: ProdutosController, UsuariosController).
+
 Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 
 <div> 
