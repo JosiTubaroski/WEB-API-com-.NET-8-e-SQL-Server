@@ -64,6 +64,27 @@ Quando você cria um projeto Web API no .NET 8 (usando o Visual Studio, Visual S
 
 <img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/08_Propertis.png"/>
 
+### Fluxo de Funcionamento
+
+#### 1. Requisição HTTP:
+
+- O cliente (navegador, aplicativo móvel, etc.) faz uma requisição HTTP para a API (ex.: GET /api/produtos).
+
+#### 2. Roteamento:
+
+- O roteamento do ASP.NET Core mapeia a requisição para o controlador e método apropriados (ex.: ProdutosController.Get).
+
+#### 3. Processamento no Controlador:
+
+- O controlador recebe a requisição, pode chamar serviços para processar a lógica de negócios e retorna uma resposta HTTP.
+
+#### 4. Resposta HTTP:
+
+- A resposta é enviada de volta ao cliente, geralmente no formato JSON.
+
+## Conclusão
+
+A estrutura de um projeto Web API .NET 8 é organizada para promover a separação de responsabilidades, facilitando a manutenção e a escalabilidade. Os principais componentes incluem controladores, modelos, serviços, acesso a dados e a escalabilidade. Os principais componentes incluem controladores, modelos, serviços, acesso a dados e configurações. Seguindo essa estrutura.
 
 Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 
