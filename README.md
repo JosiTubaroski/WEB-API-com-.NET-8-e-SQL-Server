@@ -45,6 +45,25 @@ Quando você cria um projeto Web API no .NET 8 (usando o Visual Studio, Visual S
 
 <img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/05_Migrations_Exemplo.png"/>
 
+### 6. Arquivo Program.cs:
+
+- É o ponto de entrada da aplicação, onde os serviços e middlewares são configurados.
+- No .NET 6 em diante, o Program.cs substitui o Startup.cs em versões anteriores.
+
+<img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/06_Programs_Exemplo.png"/>
+
+### 7. Arquivo appsettings.json:
+
+- Contém configurações da aplicação, como strings de conexão com o banco de dados, chaves de API, etc.
+
+<img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/07_Settings_Json.png"/>
+
+### 8. Pasta Properties:
+
+- Contém o arquivo launchSettings.json, que define configurações de execução da aplicação, como URLs e ambientes.
+
+<img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/08_Propertis.png"/>
+
 
 Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 
