@@ -26,6 +26,16 @@ Quando você cria um projeto Web API no .NET 8 (usando o Visual Studio, Visual S
 
 <img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/02_Models_Exemplo.png"/>
 
+### 3. Pasta Data:
+
+- Contém classes relacionadas ao acesso a dados, como o DbContext do Entity Framework.
+
+<img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/03_Data_Exemplo.png"/>
+
+### 4. Pasta Service:
+
+
+
 Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 
 <div> 
