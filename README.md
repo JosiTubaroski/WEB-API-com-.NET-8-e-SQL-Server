@@ -19,6 +19,13 @@ Quando você cria um projeto Web API no .NET 8 (usando o Visual Studio, Visual S
 
 <img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/01_Controler_Exemplo.png"/>
 
+### 2. Pasta Models:
+
+- Contém as classes que representam os dados da aplicação (entidades).
+- Essas classes são usadas para mapear objetos para o banco de dados (Entity Framework) ou para serializar/deserializar dados JSON.
+
+<img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/02_Models_Exemplo.png"/>
+
 Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 
 <div> 
