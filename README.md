@@ -17,6 +17,8 @@ Quando você cria um projeto Web API no .NET 8 (usando o Visual Studio, Visual S
 - Contém os controladores da API, que são classes que lidam com requisições HTTP.
 - Cada controlador geralmente corresponde a um recurso da API (ex.: ProdutosController, UsuariosController).
 
+<img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/01_Controler_Exemplo.png"/>
+
 Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 
 <div> 
