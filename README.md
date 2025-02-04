@@ -37,10 +37,13 @@ Quando você cria um projeto Web API no .NET 8 (usando o Visual Studio, Visual S
 - Contém classes de serviço que encapsulam a lógica de negócios da aplicação.
 - Esses serviços são injetados nos controladores via injeção de dependência.
 
+<img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/04_Services_Exemplo.png"/>
+
 ### 5. Pasta Migrations (se usar Entity Framework):
 
 - Contém as migrações do banco de dados, que são usadas para criar e atualizar o esquema do banco de dados.
-- 
+
+<img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/05_Migrations_Exemplo.png"/>
 
 
 Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
