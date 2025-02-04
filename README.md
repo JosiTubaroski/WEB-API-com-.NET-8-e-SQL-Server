@@ -34,6 +34,13 @@ Quando você cria um projeto Web API no .NET 8 (usando o Visual Studio, Visual S
 
 ### 4. Pasta Service:
 
+- Contém classes de serviço que encapsulam a lógica de negócios da aplicação.
+- Esses serviços são injetados nos controladores via injeção de dependência.
+
+### 5. Pasta Migrations (se usar Entity Framework):
+
+- Contém as migrações do banco de dados, que são usadas para criar e atualizar o esquema do banco de dados.
+- 
 
 
 Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
