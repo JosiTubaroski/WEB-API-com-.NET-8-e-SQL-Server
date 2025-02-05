@@ -86,6 +86,16 @@ Quando você cria um projeto Web API no .NET 8 (usando o Visual Studio, Visual S
 
 A estrutura de um projeto Web API .NET 8 é organizada para promover a separação de responsabilidades, facilitando a manutenção e a escalabilidade. Os principais componentes incluem controladores, modelos, serviços, acesso a dados e a escalabilidade. Os principais componentes incluem controladores, modelos, serviços, acesso a dados e configurações. Seguindo essa estrutura.
 
+## Como é a hierarquia de um projeto .NET8?
+
+A hierarquia de um projeto .NET8 é organizada de forma modular e segue boas praticas para garantir a clareza, manutenção e escalabilidade do código. A estrutura pode variar dependendo do tipo de projeto (Web API, MVC, Console, etc.), mas, em geral, segue um padrão comum. Vamos explorar a hierarquia típica de um projeto Web API em .NET 8:
+
+## Estrutura de Pastas e Arquivos
+
+Aqui está a hierarquia comum de um projeto Web API .NET 8:
+
+<img src="https://github.com/JosiTubaroski/WEB-API-com-.NET-8-e-SQL-Server/blob/main/img/Estrutura/09_Hierarquia.png"/>
+
 Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 
 <div> 
