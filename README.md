@@ -103,7 +103,7 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Web_API_CriarProjeto/blob/main/README.md">02. Começando o Projeto .NET8, criando AppDbContex </a></p>
+<p><a href="https://github.com/JosiTubaroski/App_DBContext">02. Começando o Projeto .NET8, criando AppDbContex </a></p>
 </div> 
 
 
