@@ -21,3 +21,7 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 <div> 
 <p><a href="https://github.com/JosiTubaroski/hist-ria_do_.NET8/blob/main/README.md">01. Qual a história do .NET8? </a></p>
 </div> 
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/hist-ria_do_.NET8/blob/main/README.md">02. Qual a história do MVC? </a></p>
+</div> 
