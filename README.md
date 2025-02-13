@@ -4,6 +4,8 @@
 
 # WEB API com .NET 8 e SQL-Server
 
+#### ✨ Projeto
+
 Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 
 <div> 
@@ -14,4 +16,4 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 <p><a href="https://github.com/JosiTubaroski/App_DBContext">02. Começando o Projeto .NET8, criando AppDbContex </a></p>
 </div> 
 
-
+#### ✨ Curiosidades
