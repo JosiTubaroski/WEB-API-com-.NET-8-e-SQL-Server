@@ -23,9 +23,11 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Swagger">02. Qual a história do MVC? </a></p>
+<p><a href="https://github.com/JosiTubaroski/hist-ria_do_.NET8/blob/main/README.md">02. Qual a história do MVC? </a></p>
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/hist-ria_do_.NET8/blob/main/README.md">03. Qual a história do swagger? </a></p>
+<p><a href="https://github.com/JosiTubaroski/Swagger">03. Qual a história do swagger? </a></p>
 </div> 
+
+
