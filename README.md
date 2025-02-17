@@ -13,7 +13,7 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/App_DBContext">02. Começando o Projeto .NET8, configurado o contexto do banco de dados (AppDbContext), criadas as Models, definida a string de conexão com o SQL Server, geradas as migrações e aplicadas na base de dados, estruturando assim a persistência da aplicação. </a></p>
+<p><a href="https://github.com/JosiTubaroski/App_DBContext">02. Começando o Projeto .NET8, configurado o contexto do banco de dados (AppDbContext), Models, string de conexão com o SQL Server, migrações e aplicadas na base de dados, estruturando a persistência da aplicação. </a></p>
 </div> 
 
 #### ✨ Curiosidades
