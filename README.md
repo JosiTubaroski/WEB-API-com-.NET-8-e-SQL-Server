@@ -9,7 +9,7 @@
 Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Web_API_CriarProjeto/blob/main/README.md">01. Criando Projeto .NET8 </a></p>
+<p><a href="https://github.com/JosiTubaroski/Web_API_CriarProjeto/blob/main/README.md">01. Criando Projeto .NET8 no Visual Studio</a></p>
 </div> 
 
 <div> 
