@@ -17,7 +17,7 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/App_DBContext">03. Continuando o Projeto .NET8, Controllers, Services </a></p>
+<p><a href="https://github.com/JosiTubaroski/Controllers_Services/blob/main/README.md">03. Continuando o Projeto .NET8, Controllers, Services </a></p>
 </div> 
 
 #### ✨ Curiosidades
