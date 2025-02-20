@@ -34,4 +34,8 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 <p><a href="https://github.com/JosiTubaroski/Swagger">03. Qual a história do swagger? </a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Swagger">04. O que são end-points? </a></p>
+</div> 
+
 
