@@ -42,4 +42,8 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 <p><a href="https://github.com/JosiTubaroski/Documento_API/blob/main/README.md">05. O que é e para que serve a documentação de API? </a></p>
 </div> 
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Repository_Patterns/blob/main/README.md">06. Repository Patterns </a></p>
+</div> 
+
 
