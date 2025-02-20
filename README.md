@@ -35,7 +35,7 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 </div> 
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Swagger">04. O que são end-points? </a></p>
+<p><a href="https://github.com/JosiTubaroski/End-points">04. O que são end-points? </a></p>
 </div> 
 
 
