@@ -29,7 +29,7 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 </div>
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Listar_Autor_Por_IDLivro/blob/main/README.md">06. Debugando o End-Point: BUSCAR AUTOR POR ID Livro</a></p>
+<p><a href="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro">06. Debugando o End-Point: BUSCAR AUTOR POR ID Livro</a></p>
 </div>
 
 
