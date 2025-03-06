@@ -28,6 +28,11 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 <p><a href="https://github.com/JosiTubaroski/Listar_Autor_Por_IDLivro/blob/main/README.md">05. Services, Controllers, End-Point: BUSCAR AUTOR POR ID Livro</a></p>
 </div>
 
+<div> 
+<p><a href="https://github.com/JosiTubaroski/Listar_Autor_Por_IDLivro/blob/main/README.md">06. Debugando o End-Point: BUSCAR AUTOR POR ID Livro</a></p>
+</div>
+
+
 
 
 #### ✨ Curiosidades
