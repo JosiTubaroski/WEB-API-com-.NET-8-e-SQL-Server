@@ -21,7 +21,7 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 </div>
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/Listar_Autor_Por_ID/blob/main/README.md">04. Services, Controllers, End-Point: BUSCAR AUTOR POR ID </a></p>
+<p><a href="https://github.com/JosiTubaroski/Listar_Autor_Por_ID/blob/main/README.md">04. Interface, Services, Controllers, End-Point: BUSCAR AUTOR POR ID </a></p>
 </div>
 
 <div> 
@@ -30,6 +30,10 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Endpoint_Buscar_Por_Id_Livro">06. Debugando o End-Point: BUSCAR AUTOR POR ID Livro</a></p>
+</div>
+
+<div> 
+<p><a href="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/README.md">07. Interface, Services, Controllers, End-Point: CRIAR AUTOR</a></p>
 </div>
 
 
