@@ -33,7 +33,7 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 </div>
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/README.md">07. Interface, Services, Controllers, End-Point: CRIAR AUTOR</a></p>
+<p><a href="https://github.com/JosiTubaroski/.NET8_Criar_Autor/blob/main/README.md">07. Dto, Interface, Services, Controllers, End-Point: CRIAR AUTOR</a></p>
 </div>
 
 
