@@ -37,7 +37,7 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 </div>
 
 <div> 
-<p><a href="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/README.md">08. Interface, Services, Controllers, End-Point: ATUALIZAR AUTOR</a></p>
+<p><a href="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/README.md">08. Interface, Services, Controllers, End-Point: EDITAR AUTOR / EXCLUIR AUTOR</a></p>
 </div>
 
 
