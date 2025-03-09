@@ -16,6 +16,8 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 <p><a href="https://github.com/JosiTubaroski/App_DBContext">02. Começando o Projeto .NET8, configurado o contexto do banco de dados (AppDbContext), Models, string de conexão com o SQL Server, migrações e aplicadas na base de dados, estruturando a persistência da aplicação. </a></p>
 </div> 
 
+#### ✨ EndPoints Autores
+
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Controllers_Services/blob/main/README.md">03. Continuando o Projeto .NET8, Services, Controllers, End-Point: LISTAR AUTORES </a></p>
 </div>
@@ -40,6 +42,7 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 <p><a href="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/README.md">08. Interface, Services, Controllers, End-Point: EDITAR AUTOR / EXCLUIR AUTOR</a></p>
 </div>
 
+#### ✨ EndPoints Livros
 
 
 
