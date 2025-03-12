@@ -42,9 +42,6 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 <p><a href="https://github.com/JosiTubaroski/.NET8_Atualizar_Autor/blob/main/README.md">08. Interface, Services, Controllers, End-Point: EDITAR AUTOR / EXCLUIR AUTOR</a></p>
 </div>
 
-#### ✨ EndPoints Livros
-
-
 
 #### ✨ Curiosidades
 
@@ -71,5 +68,7 @@ Aula: https://www.youtube.com/watch?v=bnAuqSgmTyc
 <div> 
 <p><a href="https://github.com/JosiTubaroski/Repository_Patterns/blob/main/README.md">06. Repository Patterns </a></p>
 </div> 
+
+Link do Projeto: https://github.com/JosiTubaroski/Net8_WebAPI_Autores_Livros
 
 
